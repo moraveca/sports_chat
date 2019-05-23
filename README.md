@@ -2,7 +2,7 @@
 
 We created a simple chat app built around rooms. Each room is focused around one of the 3 professional sports - MLB, NBA, or NFL - bringing sports fanatics into one space to talk about the latest games.
 
-![](sports_chat_example.gif)
+![](sport_chat_example_min.gif)
 
 
 The technologies we used were 
